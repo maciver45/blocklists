@@ -45,3 +45,20 @@
 
 r[0-9-]-sn-[a-z0-9]-[0-9a-z]{4}.googlevideo.com
 
+^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
+^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
+^(.+[-_.])??xn--
+^adim(age|g)s?[0-9]*[-_.]
+^adtrack(er|ing)?[0-9]*[-.]
+^advert(s|is(ing|ements?))?[0-9]*[-_.]
+^aff(iliat(es?|ion))?[-.]
+^analytics?[-.]
+^banners?[-.]
+^beacons?[0-9]*[-.]
+^count(ers?)?[0-9]*[-.]
+^pixels?[-.]
+
+^(.+\.)?amp\..+\.com$
+^(.+\.)?ampproject\.org$
+
+^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
