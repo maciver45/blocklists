@@ -21,5 +21,9 @@ r[0-9-]-sn-[a-z0-9]-[0-9a-z]{4}.googlevideo.com
 ^(.+\.)?amp\..+\.com$
 ^(.+\.)?ampproject\.org$
 ^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
-\^*.local$
-\^*.lan$
+^*.local$
+^*.lan$
+^track(ers?|ing)?[0-9]*[-.]
+^traff(ic)?[-.]
+^(.+[_.-])?eulerian\.net$
+^(.+[_.-])?dnsdelegation\.io$
