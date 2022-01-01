@@ -16,7 +16,8 @@
 ## ads*.example* | *, ? and [] can be used anywhere, but prefixes/suffixes are faster
 
 ##
-s3.amazonaws.com
+s3-1-w.amazonaws.com
+github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 
 ## Postbank
 postbank.ru
