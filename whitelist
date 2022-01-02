@@ -30,6 +30,7 @@ lotto-bayern.de
 
 # Google
 id.google.com
+id.google.de
 clients5.google.com 
 clients4.google.com
 clients3.google.com  
@@ -220,9 +221,6 @@ consent.faz.net
 *.paypal.com
 t.paypal.com
 
-# Spotify
-wl.spotify.com
-
 # Zoom
 *.zoom.us
 click.zoom.us
@@ -236,7 +234,6 @@ responder.wt-safetag.com
 barclaysbankplc.tt.omtrdc.net
 az416426.vo.msecnd.net
 click.banknorwegian.de
-
 
 # N-TV
 sourcepoint.n-tv.de
@@ -282,7 +279,6 @@ android.clients.google.com
 api.ipify.org
 api.rlje.net
 app-api.ted.com
-appleid.apple.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
@@ -363,8 +359,6 @@ login.live.com
 login.microsoftonline.com
 manifest.googlevideo.com
 meta-db-worker02.pop.ric.plex.bz
-meta.plex.bz
-meta.plex.tv
 microsoftonline.com
 msftncsi.com
 my.plexapp.com
@@ -392,11 +386,7 @@ placeholdit.imgix.net
 players.brightcove.net
 pricelist.skype.com
 products.office.com
-proxy.plex.bz
-proxy.plex.tv
 proxy02.pop.ord.plex.bz
-pubsub.plex.bz
-pubsub.plex.tv
 raw.githubusercontent.com
 redirector.googlevideo.com
 res.cloudinary.com
@@ -415,8 +405,6 @@ services.sonarr.tv
 skyhook.sonarr.tv
 spclient.wg.spotify.com
 ssl.p.jwpcdn.com
-staging.plex.tv
-status.plex.tv
 t.co
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
