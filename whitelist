@@ -684,4 +684,9 @@ v20.events.data.microsoft.com
 # streamelements.com (Blocked by Pi-hole regex)
 stats.streamelements.com
 
-
+winget.azureedge.net
+storeedgefd.dsx.mp.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+emdl.ws.microsoft.com
+au.download.windowsupdate.com
+ctldl.windowsupdate.com
