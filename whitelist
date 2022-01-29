@@ -79,6 +79,16 @@ ecn.dev.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 
+
+# Discord
+discordapp.com
+discord.com
+discord.co
+discord.gg
+watchanimeattheoffice.com
+dis.gd
+bigbeans.solutions
+
 # Emby
 thetvdb.com
 themoviedb.com
@@ -162,6 +172,7 @@ tags.tiqcdn.com
 #Edge
 dl.delivery.mp.microsoft.com
 edge.microsoft.com
+msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 
 #Windows Updates
 sls.update.microsoft.com.akadns.net
