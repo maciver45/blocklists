@@ -25,3 +25,22 @@ r[0-9-]-sn-[a-z0-9]-[0-9a-z]{4}.googlevideo.com
 ^traff(ic)?[-.]
 ^(.+[_.-])?eulerian\.net$
 ^(.+[_.-])?dnsdelegation\.io$
+
+# LG
+(^|\.)ibs\.lgappstv\.com
+(^|\.)lgsmartad\.com
+(^|\.)smartshare\.lgtvsdp\.com
+(^|\.)rdx2\.lgtvsdp\.com
+# ^[a-z]{7,15}$ # what the heck is this one?
+
+# Samsung
+(^|\.)giraffic\.com$
+(^|\.)internetat\.tv$
+(^|\.)pavv\.co\.kr$
+(^|\.)samsungcloudcdn\.com$
+(^|\.)samsungcloudsolution\.com$
+(^|\.)samsungcloudsolution\.net$
+(^|\.)samsungelectronics\.com$
+(^|\.)samsungotn\.net$
+(^|\.)samsungrm\.net$
+
