@@ -4,3 +4,5 @@
 ^(.*\.)*gvt[0-9]\.com$
 ^(.*\.)*googleusercontent\.com$
 ^(.*\.)*[is].ytimg.com$
+(\.|^)(digicert|verisign)\.com
+(\.|^)(privatestats|g)\.whatsapp\.net
