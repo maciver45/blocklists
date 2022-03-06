@@ -1,0 +1,80 @@
+### Adware
+
+audacity.de
+keepass.de
+
+### Generall Stuff to Reduce blocklist Size
+
+*.blogspot.com
+*.blogspot.co.*
+porn*.*
+*hardcore*.*
+*xhamster*.*
+*porn*.*
+*orgasm*.*
+*.adult
+*.asia
+*.best
+*.bet
+*.bible
+*.bid
+*.br
+*.by
+*.cam
+*.camera
+*.casa
+*.cash
+*.casino
+*.club
+*.gay
+*.internal
+*.link
+*.mobi
+*.network
+*.poker
+*.porn
+*.xxx
+*.sex
+*.vegas
+*.ru
+
+# Local set of patterns to block
+
+ad.*
+ads.*
+banner.*
+banners.*
+creatives.*
+oas.*
+oascentral.*
+tag.*
+telemetry.*
+tracker.*
+
+# My Macbook constantly sends a lot of useless queries to *.local,
+# so I block them. *.lan is apparently another common one, and
+# *.localdomain and *.workgroup are common on Windows.
+
+*.lan
+*.local
+*.localdomain
+*.workgroup
+
+# eth0.me is hardcoded in tools such as Archey, but is not available any
+# more, causing issues such as terminal sessions taking a long time to
+# start.
+
+eth0.me
+
+# ibpxl.com is a tracker that seems to frequently have issues, causing
+# page loads to stall.
+
+ibpxl.com
+
+# ditto for that one
+
+internetbrands.com
+
+# Ubuntu's motd script sends way too much information to Canonical
+
+motd.ubuntu.com
