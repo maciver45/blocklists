@@ -28,6 +28,10 @@ www.postbank.de
 # Lotto Bayern
 lotto-bayern.de
 
+# ARD Mediathek
+
+nmrodam.com
+
 
 # Google
 id.google.com
@@ -79,7 +83,6 @@ ecn.dev.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 
-
 # Discord
 discordapp.com
 discord.com
@@ -92,6 +95,7 @@ bigbeans.solutions
 # Emby
 thetvdb.com
 themoviedb.com
+fanart.tv
 
 # DropBox
 dl.dropboxusercontent.com
@@ -264,15 +268,11 @@ mydealz.digidip.net
 ndirect.ppro.de
 squidguard.org
 
-
 #Aldi
 demdex.net
 omtrdc.net
 publitas.com
 prospekt.aldi-sued.de
-
-#ChinaShops
-banggood.com
 
 ## Guestbooks
 elasticbeanstalk.com
@@ -476,13 +476,6 @@ www.msftconnecttest.com
 # Contributed by Anudeep <anudeep@protonmail.com>
 # Project home page: https://github.com/anudeepND/whitelist
 # Licence: https://github.com/anudeepND/whitelist/blob/master/LICENSE
-
-# Adult Swim Videos on Amazon Firestick
-pmd.cdn.turner.com
-i.cdn.turner.com
-s.cdn.turner.com
-z.cdn.turner.com
-amd.cdn.turner.com
 
 # Amazon Alexa and Amazon Shopping app
 device-metrics-us-2.amazon.com
