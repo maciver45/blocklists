@@ -36,6 +36,7 @@ porn*.*
 *.xxx
 *.sex
 *.vegas
+*.ru
 
 # Local set of patterns to block
 
