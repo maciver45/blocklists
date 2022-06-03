@@ -3,7 +3,7 @@
 ! Title: maciver45-custom
 ! Last modified:
 ! Expires: 2 days (update frequency)
-! Homepage: https://github.com/booboo-at-gluga-de/gluga-shared-filter-lists
+! Homepage: https://raw.githubusercontent.com/maciver45/blocklists/main/maciver45-custom
 !
 # Remove the heise.de Cookie Popup and make scrollbars work, too
 ||cmp.heise.de/*
