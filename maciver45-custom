@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Version:
+! Title: maciver45-custom
+! Last modified:
+! Expires: 2 days (update frequency)
+! Homepage: https://github.com/booboo-at-gluga-de/gluga-shared-filter-lists
+!
+# Remove the heise.de Cookie Popup and make scrollbars work, too
+||cmp.heise.de/*
+
+# Filter Cookie banner at https://www.bild.de
+||cmp2.bild.de/*
