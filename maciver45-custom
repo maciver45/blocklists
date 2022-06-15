@@ -10,3 +10,4 @@
 
 # Filter Cookie banner at https://www.bild.de
 ||cmp2.bild.de/*
+www.baufi24.de##.show.fade.modal-backdrop
